@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<style name="materialTheme" parent="@style/Theme.AppCompat">
+	    <item name="colorPrimary">#ae0d40</item>
+	    <item name="colorPrimaryDark">#7a0127</item>
+	    <item name="colorAccent">#FF80AB</item>
+	    <item name="colorControlNormal">#757575</item>
+	    <item name="colorControlActivated">#FF6E40</item>
+	    <item name="colorControlHighlight">#FF4081</item>
+	    <item name="colorSwitchThumbNormal">#BDBDBD</item>
+	    <item name="android:colorButtonNormal">#BDBDBD</item>
+	    <item name="android:colorEdgeEffect">#FF4081</item>
+	</style>
+	
+	<style name="Theme.NoActionBar" parent="@style/Theme.AppCompat">
+            <item name="windowActionBar">false</item>
+            <item name="android:windowNoTitle">true</item>
+    </style>
+</resources>
