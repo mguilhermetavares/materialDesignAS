@@ -1,0 +1,7 @@
+"/Users/Mobile/Documents/Appcelerator_Studio_Workspace/TesteMaterial/build/android/gen/android/support/v7/appcompat/R.java"
+"/Users/Mobile/Documents/Appcelerator_Studio_Workspace/TesteMaterial/build/android/gen/com/teste/material/guido/ApplicationStylesheet.java"
+"/Users/Mobile/Documents/Appcelerator_Studio_Workspace/TesteMaterial/build/android/gen/com/teste/material/guido/R.java"
+"/Users/Mobile/Documents/Appcelerator_Studio_Workspace/TesteMaterial/build/android/gen/com/teste/material/guido/TestematerialActivity.java"
+"/Users/Mobile/Documents/Appcelerator_Studio_Workspace/TesteMaterial/build/android/gen/com/teste/material/guido/TestematerialAppInfo.java"
+"/Users/Mobile/Documents/Appcelerator_Studio_Workspace/TesteMaterial/build/android/gen/com/teste/material/guido/TestematerialApplication.java"
+"/Users/Mobile/Documents/Appcelerator_Studio_Workspace/TesteMaterial/build/android/gen/ti/modules/titanium/ui/R.java"
